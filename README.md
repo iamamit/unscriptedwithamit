@@ -130,7 +130,7 @@ Update the contact information in `index.html`:
 
 - **Address**: 123 Innovation Street, Tech District, TC 12345
 - **Phone**: +1 (555) 123-4567
-- **Email**: hello@mptech.com
+- **Email**: amit2608.ag@gmail.com
 
 ## 📄 License
 
@@ -164,5 +164,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Made with ❤️ by MP Tech**
 
-For questions or support, please contact us at hello@mptech.com
+For questions or support, please contact us at amit2608.ag@gmail.com
 # videoEditingPortfolio
